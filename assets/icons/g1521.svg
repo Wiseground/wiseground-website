@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="109.775" height="109.776" viewBox="0 0 109.775 109.776">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #364757;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #364757;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 9px;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="path1527" class="cls-1" d="M0-682.665H109.775V-572.89H0Z" transform="translate(0 682.665)"/>
+    </clipPath>
+  </defs>
+  <g id="g1521" transform="translate(0 682.665)">
+    <g id="g1523" transform="translate(0 -682.665)">
+      <g id="g1525" class="cls-2">
+        <g id="g1531" transform="translate(15.318 4.288)">
+          <path id="path1533" class="cls-3" d="M0-216.591,25.107-241.7,43.925-222.88l35.214-35.214" transform="translate(0 258.094)"/>
+        </g>
+        <g id="g1535" transform="translate(73.089 4.288)">
+          <path id="path1537" class="cls-3" d="M-111.513-111.512V-132.88h-21.368" transform="translate(132.881 132.88)"/>
+        </g>
+        <path id="path1539" class="cls-3" d="M48.727-158.7H26.667V-184h22.06Z" transform="translate(-22.378 264.187)"/>
+        <path id="path1541" class="cls-3" d="M294.8-243.821h-22.06v-41.61H294.8Z" transform="translate(-228.882 349.308)"/>
+        <path id="path1543" class="cls-3" d="M540.873-328.941h-22.06v-57.921h22.06Z" transform="translate(-435.386 434.428)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66.5" height="66.5" viewBox="0 0 66.5 66.5">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Icon" transform="translate(-1.25 -1.25)">
+    <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-1" cx="2.32" cy="2.32" r="2.32" transform="translate(11.302 10.529)"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-1" cx="2.32" cy="2.32" r="2.32" transform="translate(19.035 10.529)"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" class="cls-1" cx="2.32" cy="2.32" r="2.32" transform="translate(26.767 10.529)"/>
+    <path id="Path_86" data-name="Path 86" class="cls-2" d="M67.75,37.593V11.3A10.052,10.052,0,0,0,57.7,1.25H11.3A10.052,10.052,0,0,0,1.25,11.3V57.7A10.052,10.052,0,0,0,11.3,67.75H34.5a2.32,2.32,0,0,0,0-4.64H11.3A5.411,5.411,0,0,1,5.89,57.7V11.3A5.411,5.411,0,0,1,11.3,5.89H57.7A5.411,5.411,0,0,1,63.11,11.3V37.593a2.32,2.32,0,0,0,4.64,0Z"/>
+    <path id="Path_87" data-name="Path 87" class="cls-2" d="M65.43,7.25H3.57a2.32,2.32,0,1,0,0,4.64H65.43a2.32,2.32,0,1,0,0-4.64Z" transform="translate(0 12.558)"/>
+    <path id="Path_88" data-name="Path 88" class="cls-2" d="M28.709,28.519l-6.5-9.279a2.319,2.319,0,1,0-3.8,2.66l6.5,9.279a2.32,2.32,0,0,0,3.8-2.66Z" transform="translate(35.042 35.582)"/>
+    <path id="Path_89" data-name="Path 89" class="cls-2" d="M39.895,24.28c-5.283-3.05-14.85-8.568-20.012-11.546a4.222,4.222,0,0,0-6.27,4.389c1.033,5.871,2.948,16.749,4.005,22.755a4.224,4.224,0,0,0,7.51,1.837l5.425-7.071,8.5-2.679a4.223,4.223,0,0,0,.841-7.686Zm-3.139,3.545-8.3,2.617a2.3,2.3,0,0,0-1.141.8l-5.3,6.9L18.336,17.2Z" transform="translate(25.743 22.852)"/>
+  </g>
+</svg>
